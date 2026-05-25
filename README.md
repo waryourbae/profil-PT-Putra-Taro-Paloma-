@@ -6,7 +6,7 @@ Website company profile dan landing page perusahaan yang dirancang untuk menampi
 
 ## 📌 Tentang Project
 
-Project ini merupakan website company profile untuk :contentReference[oaicite:0]{index=0} yang bertujuan untuk meningkatkan branding perusahaan dan memudahkan masyarakat maupun calon mitra dalam mendapatkan informasi perusahaan secara online.
+Project ini merupakan website company profile untuk : meningkatkan branding perusahaan dan memudahkan masyarakat maupun calon mitra dalam mendapatkan informasi perusahaan secara online.
 
 Website dibuat dengan tampilan modern, responsive, dan user friendly sehingga dapat diakses dengan baik melalui desktop maupun mobile device.
 
